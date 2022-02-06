@@ -1,4 +1,4 @@
-#Nikodem Rosenkranz - projekt który będzie na bierząco aktualizowany start - 06.02.2022.
+#Projekt który będzie na bierząco aktualizowany start - 06.02.2022.
 #Całość zajęła mi 2 godziny i 3 minuty.
 
 import random
@@ -17,17 +17,17 @@ def menu():
     time.sleep(1)
     wybor=input("Prosze wybrac: ")
     if wybor == "1":
+        time.sleep(1)
         kalkulator()
-        time.sleep(1)
     elif wybor == "2":
+        time.sleep(1)
         generator()
-        time.sleep(1)
     elif wybor == "3":
+        time.sleep(1)
         genshin()
-        time.sleep(1)
     elif wybor == "4":
-        osoby()
         time.sleep(1)
+        osoby()
     elif wybor == "":
         exit()
 
@@ -304,4 +304,4 @@ while not login:
             print("Bledne haslo.")
             exit()
 else:
-    print("Bledny login.")
+    print("Bledny login.")  
