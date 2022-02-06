@@ -1,4 +1,5 @@
-#Projekt który będzie na bierząco aktualizowany start - 06.02.2022.
+#Nikodem Rosenkranz - projekt który będzie na bierząco aktualizowany start - 06.02.2022.
+#Całość zajęła mi 2 godziny i 3 minuty.
 
 import random
 import time
